@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanush02" alt="imtanush02" /></a> </p>
 
 - 👩‍💼 I've built a Company's Website [EditorsAtWork](https://editorsatwork.com/)
-- 
+  
 - 🔭 I’m currently working on in collaboration with my friend  [Xplode](https://github.com/rahul3rj/Xplode.git)
 
 - 👨‍🎓 Check my portfolio (it's under construction by the way) [Portfolio](https://portfolio-beige-nine-19.vercel.app/)
