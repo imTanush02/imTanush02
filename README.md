@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanush02" alt="imtanush02" /></a> </p>
 
-- 🔭 I’m currently working on in collaboration with my friend Rahul Jha [Xplode](https://github.com/rahul3rj/Xplode.git)
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 👯 In Collaboration of my team , i've created an awesome website for hackathon [Cyphers](https://cyphers-final-round.vercel.app/)
-
 - 👩‍💼 I've built a Company's Website [EditorsAtWork](https://editorsatwork.com/)
+- 
+- 🔭 I’m currently working on in collaboration with my friend  [Xplode](https://github.com/rahul3rj/Xplode.git)
+
+- 👨‍🎓 Check my portfolio (it's under construction by the way) [Portfolio](https://portfolio-beige-nine-19.vercel.app/)
+  
+- 👯 In Collaboration of my team , i've created an awesome website for hackathon [Cyphers](https://cyphers-final-round.vercel.app/)
+  
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **tanushsingh843@gmail.com**
 
