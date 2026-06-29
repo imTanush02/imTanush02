@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[Xplode](https://github.com/rahul3rj/Xplode.git)** — a full-stack gaming marketplace
+- 🔭 Currently building with my Friend **[Xplode](https://github.com/rahul3rj/Xplode.git)** — a full-stack gaming marketplace 
 - 👩‍💼 Built the company website for **[EditorsAtWork](https://editorsatwork.com/)** from scratch in React.js
 - ☁️ Hands-on with **AWS EC2, S3, IAM, Nginx** — deployed production apps on cloud
 - 🛠️ Built a **CI/CD pipeline** using Jenkins + Docker + GitHub Webhooks
